@@ -10,7 +10,7 @@ var userSequence = [];
 var shouldRestart = false;
 var difficulty = 5 * 100;
 
-window.onkeydown = function () {
+levelTitle.onclick = window.onkeydown = function () {
   if (shouldRestart) {
     reset();
   }
