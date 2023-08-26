@@ -2,6 +2,6 @@
 *I skipped over the HTML and CSS modules and the repo contains code starting from the JS module.
 I have used some advanced JS codes/concepts that have not been taught yet in each exercise since I knew some JS already, so proceed with caution.*
 
-To see demos of these projects, head over to my [projects website](https://malindus-projects.web.app/).
+To see demos of these projects, head over to my [projects website](https://thisismalindu.github.io/full-stack-dev-angela/).
 
 That's all for now.
