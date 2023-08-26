@@ -8,7 +8,7 @@ var list = "";
 console.log("Writing HTML");
 fs.readdir("./", function (err, files) {
   files.forEach((element) => {
-    if (element != ".git" && element != "README.md" && element != "index.html" && element != "index.js")
+    if (element != ".git" && element != ".gitignore" && element != "README.md" && element != "index.html" && element != "index.js")
       list += `<li><a href="${element} "> ${element}</a></li> \n`;
   });
   var indexHTML = `
