@@ -35,7 +35,7 @@ fs.readdir("./", function (err, files) {
     ${list}
   </ul>
   
-	<a href="https://github.com/thisismalindu/full-stack-dev-angela" target="_blank">Git Repo</a>
+	<a href="https://github.com/thisismalindu/full-stack-dev-angela">Git Repo</a>
 </body>
 </html>
 `;
